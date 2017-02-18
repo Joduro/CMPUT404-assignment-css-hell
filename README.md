@@ -19,6 +19,7 @@ Textual content is copyright Abram Hindle (C) 2013 under the CC-BY-SA
 4.0 unported license. Attribution should be a hyperlink to the
 repository and (C) 2013 Abram Hindle visibile in the text.
 
+The Gutenberg html files are liscened under The Project Gutenberg License (https://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License)
 Code is licensed under the Apache 2.0 license.
 
 
