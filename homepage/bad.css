@@ -1,0 +1,44 @@
+body {
+	background: pink;
+}
+h1 {
+	font-family: "Comic Sans";
+	font-size: 75px;
+	color: red;
+	background: blue;
+	text-align: center;
+}
+h2 {
+	font-family: "Ariel";
+	font-size: 50px;
+	color: oragne;
+}
+h3 {
+	font-family: "PT Serif";
+	font-size: 65px;
+	color: orange;
+	text-align: center;
+
+}
+h4 {
+	font-family: "PT Serif";
+	font-size: 33px;
+	color:  green
+	font-weight: italic;
+	
+}
+small {
+	text-align: center;
+}
+p {
+	font-family: "Comic Sans";
+	font-size: 14px;
+	text-align: center;
+
+}
+#photo { float: right; }
+img {
+	border: 10px solid yellow;
+	max-width: 700px;
+
+}

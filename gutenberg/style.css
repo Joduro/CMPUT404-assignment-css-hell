@@ -1,0 +1,52 @@
+body {
+	background-image: url("images/old-paper.jpg");
+	background-position: center top;
+	background-repeat: repeat;
+}
+a {
+	font-family: "PT Serif";
+	font-size: 15px;
+}
+pre {
+	font-family: "PT Serif";
+	font-size: 15px;
+}
+h1 {
+	font-family: "PT Serif";
+	font-size: 50px;
+	color: #292826;
+	text-shadow: 2px 2px #634E09;
+	text-align: center;
+	background-image: url("images/parchment.png");
+	background-attachment: center;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 100% 100%
+}
+h2 {
+	font-family: "PT Serif";
+	font-size: 40px;
+	color: #292826;
+	text-align: center;
+}
+p {
+	padding-left: 50px;
+	padding-right: 50px;
+	font-family: "PT Serif";
+	font-size: 20px;
+	text-align: left;
+}
+td {
+	font-family: "PT Serif";
+	font-size: 16px;
+}
+a:link {
+	color: #233EAD;
+}
+a:visited {
+	color: #80145F;
+}
+
+img {
+	border: 4px ridge #5E4B0D;
+}
